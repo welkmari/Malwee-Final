@@ -1,7 +1,4 @@
-Aqui está o **README atualizado**, incluindo:
-✅ Nome *Malwee Dashboard*
-✅ Uso da **biblioteca interna da Malwee**
-✅ Autenticação **JWT**
+
 
 ---
 
@@ -105,4 +102,5 @@ O **Malwee Dashboard** foi criado para oferecer uma solução moderna, segura e 
 
 ---
 
-Se quiser, posso deixar o README **mais curto**, **mais técnico**, **em inglês**, ou criar **badges e imagens de preview**.
+
+
