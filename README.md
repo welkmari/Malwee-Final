@@ -91,8 +91,7 @@ Principais pontos:
 
 * Integração com dados IoT em tempo real
 * Gráficos avançados e alertas operacionais
-* Dashboard configurável por usuário
-* Relatórios exportáveis
+* Dashboard configurável por usuário* Relatórios exportáveis
 
 ---
 
@@ -101,6 +100,7 @@ Principais pontos:
 O **Malwee Dashboard** foi criado para oferecer uma solução moderna, segura e visualmente alinhada à identidade da Malwee, facilitando a análise de dados têxteis e apoiando a tomada de decisão no ambiente produtivo.
 
 ---
+
 
 
 
